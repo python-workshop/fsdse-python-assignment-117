@@ -1,5 +1,6 @@
 # fsdse-python-assignment-117
 
+# Delete a node in the middle of a linked list
 ## Constraints
 * Can we assume this is a non-circular, singly linked list?
 	* Yes
